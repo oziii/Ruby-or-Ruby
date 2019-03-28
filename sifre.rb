@@ -7,20 +7,3 @@ while uzunluk != 0
 	a = rand(62)
 	print karisik[a]
 end	
-
-
-/ sayılar int
-	char
-	float
-	string 
-
-	kullanıcı
-
-	a Preze giriş
-	a da delik süresi
-	b ye taşıma süresi y
-	b de pah kırma süresi z
-	toplam süre n
-	b prezeye gidiş süre
-	
-	/
